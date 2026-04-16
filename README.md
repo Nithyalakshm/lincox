@@ -14,6 +14,11 @@ Attacks supported :
 - SQL injection
 - Common misconfigurations
 
+## My Contribution
+- Implemented SQL injection detection logic
+- Designed payload validation system
+- Improved scanning accuracy across endpoints
+
 ## How to install 
 
 The asiest way is to use a python virtual environment :
